@@ -4,6 +4,10 @@
 
 The Finance Tracker Project is a Python-based application designed to help users manage their personal finances effectively. It allows users to log their income and expenses, view summaries of their transactions over a specific period, and visualize their financial data with plots.
 
+
+![Finance Tracker Graph Photo](https://github.com/Abidjahan1/finance-tracker/blob/main/fig.png)
+
+
 ## Features
 
 - **Add New Transactions**: Log your income and expenses with details like date, amount, category, and a brief description.

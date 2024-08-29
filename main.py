@@ -86,6 +86,7 @@ def plot_transactions(df):
     plt.grid(True)
     plt.show()
     
+    
 
 def main():
     while True:
